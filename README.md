@@ -5,6 +5,6 @@
 
 # TaskFlow
 
-my Assignment for Frontend Developer Interns,not delivered.
+my Assignment for Frontend Developer Interns.
 
 
