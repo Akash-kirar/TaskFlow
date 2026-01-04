@@ -1,24 +1,10 @@
-# TaskFlow
-
-my Assignment for Frontend Developer Interns
-
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1211" height="670" alt="image" src="https://github.com/user-attachments/assets/ec1940f8-2814-4d6e-bcdb-ad3f17b115e2" />
 </div>
 
-## Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+# TaskFlow
 
-View your app in AI Studio: https://ai.studio/apps/drive/11k0NnI7xxPCMZgqC8xsTJR9P0I7Vj0eL
+my Assignment for Frontend Developer Interns,not delivered.
 
-### Run Locally
-
-**Prerequisites:** Node.js
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in `.env.local` to your Gemini API key
-3. Run the app:
-   `npm run dev`
 
